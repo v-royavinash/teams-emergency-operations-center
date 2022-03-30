@@ -2,7 +2,7 @@ const localizedStrings = {
     "en-us": {
         btnLogin: "Login",
         // Header strings
-        appTitle: "Microsoft Teams Emergency Operation Center",
+        appTitle: "Microsoft Team Emergency Operation Center",
         appTitlePreview: "(Preview)",
         welcome: "Welcome",
         moreInfo: "More Info",
